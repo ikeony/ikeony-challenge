@@ -1,5 +1,3 @@
-In my last position, most of my efforts were spent in development and not deployment, as I wasn't yet responsible for prodduction deployment of a Typescript/React App.
-
 However, from my experience with node deployments, usually an environment file could be used (one for dev, staging/qa, prod), or some way to load different environment variables to production. 
 
 Test files would be added (either for unit testing or integration testing with Jest).
